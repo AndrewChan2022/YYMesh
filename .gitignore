@@ -1,0 +1,16 @@
+
+.vscode/*
+.vscode/
+.vs/
+__pycache__
+
+# external/*
+
+/external/linux
+/dep
+/build/*
+/build2/*
+/install/*
+/Testing/*
+/data
+/temp
